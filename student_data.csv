@@ -1,0 +1,10 @@
+mark_id,student_id,subject,marks,exam_date,att_id,attendance_percentage,name,dept,semester,is_fail,fail_probability
+1.0,1,Maths,85.0,2025-01-20,1.0,92.0,Rahul,CSE,1,False,7.708925785109287e-07
+2.0,1,Science,78.0,2025-01-21,2.0,88.0,Rahul,CSE,1,False,3.2066919990665595e-06
+3.0,2,Maths,55.0,2025-01-20,3.0,65.0,Sneha,IT,1,False,0.0114989010080463
+4.0,2,Science,60.0,2025-01-21,4.0,70.0,Sneha,IT,1,False,0.0019543351339441
+5.0,3,Maths,30.0,2025-01-20,5.0,40.0,Amit,CSE,1,True,0.9885144686114662
+6.0,3,Science,25.0,2025-01-21,6.0,35.0,Amit,CSE,1,True,0.9980479590600194
+,13,Maths,97.0,,,0.0,elon,,1,False,0.0
+,13,Maths,97.0,,,76.0,elon,,1,False,0.0
+,13,Maths,97.0,,,76.0,elon,,1,False,0.0
